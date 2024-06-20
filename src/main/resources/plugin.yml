@@ -1,0 +1,4 @@
+name: testgaips
+version: '0.0.0'
+main: Testgaips
+api-version: '1.21'

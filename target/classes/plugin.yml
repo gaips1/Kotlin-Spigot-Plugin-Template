@@ -1,0 +1,4 @@
+name: testgaips
+version: '${project.version}'
+main: Testgaips
+api-version: '1.21'
